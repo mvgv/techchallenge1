@@ -32,7 +32,7 @@ def main():
 
     model = load_model("models/model.h5")
 
-    img_path = "data/chest_xray/test/NORMAL/NORMAL2-IM-1427-0001.jpeg"
+    img_path = "data/chest_xray/test/NORMAL/NORMAL2-IM-0007-0001.jpeg"
 
     img = tf.keras.preprocessing.image.load_img(img_path, target_size=(224,224))
     img_array = tf.keras.preprocessing.image.img_to_array(img)
