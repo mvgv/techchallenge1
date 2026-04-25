@@ -3,8 +3,6 @@
 ## Instalação
 pip install -r requirements.txt
 
-> No Windows, esta versão usa `tensorflow-directml` para ativar aceleração via DirectML.
-
 ## Treinar modelo
 python src/train.py
 
