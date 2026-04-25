@@ -2,3 +2,4 @@ venv/
 .venv/
 __pycache__/
 dump_nb.py
+.venv-pneumonia/
