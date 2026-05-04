@@ -17,4 +17,4 @@ Neste subprojeto, desenvolvemos todo o pipeline de dados para o dataset Pima Ind
 ## 🫁 Parte 2: Detecção de Pneumonia
 Neste subprojeto, focamos na etapa de detecção e classificação de imagens de Raio-X.
 - **Documentação e Código:** [Acessar a pasta pneumonia](./pneumonia/README.md)
-- **Vídeo Explicativo Técnico:** [Assistir no YouTube (Placeholder)](https://youtube.com/watch?v=dummy_pneumonia_video)
+
