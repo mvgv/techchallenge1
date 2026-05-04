@@ -10,6 +10,7 @@ Este repositório contém todos os artefatos, códigos e análises desenvolvidos
 ## 🩺 Parte 1: Análise Exploratória e Predição de Diabetes
 Neste subprojeto, desenvolvemos todo o pipeline de dados para o dataset Pima Indians. Limpamos os dados, tratamos a ausência de informações biológicas com KNNImputer, lidamos com o desbalanceamento de classes usando SMOTE e validamos modelos de Árvores de Decisão, KNN e Random Forest (o campeão).
 - **Documentação e Código:** [Acessar a pasta diabetes-eda](./diabetes-eda/README.md)
+- **Relatório do EDA:** [Acessar Notebook EDA](./diabetes-eda/diabetes_eda.ipynb)
 - **Vídeo Explicativo Técnico:** [Assistir no YouTube (Placeholder)](https://youtube.com/watch?v=dummy_diabetes_video)
 
 ---
