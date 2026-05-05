@@ -4,3 +4,4 @@ __pycache__/
 dump_nb.py
 .venv-pneumonia/
 roteiro.md
+.claude/
